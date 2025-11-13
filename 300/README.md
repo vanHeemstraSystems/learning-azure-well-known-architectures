@@ -14,7 +14,7 @@ I’ll create a comprehensive table mapping well-known Azure architectures to th
 |**Big Data & Analytics**  |• Azure Synapse Analytics<br>• Azure Data Lake Storage<br>• Azure Databricks<br>• Azure HDInsight<br>• Azure Data Factory<br>• Azure Virtual Network (for private endpoints)                                      |
 |**Serverless**            |• Azure Functions<br>• Azure Logic Apps<br>• Azure API Management<br>• Azure Cosmos DB<br>• Azure Event Grid<br>• Azure Storage                                                                                   |
 |**DevOps/CI-CD**          |• Azure DevOps<br>• Azure Container Registry<br>• Azure Kubernetes Service<br>• Azure Virtual Machines (build agents)<br>• Azure Key Vault<br>• Network Security Groups                                           |
-|**Zero Trust Security**   |• Azure Bastion<br>• Azure Firewall<br>• Network Security Groups<br>• Azure Private Link<br>• Azure AD (Entra ID)<br>• Azure Key Vault<br>• Azure Policy                                                          |
+|**[1100 - Zero Trust Security](./1100/README.md)**   |• Azure Bastion<br>• Azure Firewall<br>• Network Security Groups<br>• Azure Private Link<br>• Azure AD (Entra ID)<br>• Azure Key Vault<br>• Azure Policy                                                          |
 |**DMZ/Perimeter Network** |• Azure Firewall<br>• Azure Application Gateway (with WAF)<br>• Network Security Groups<br>• Azure Virtual Network<br>• Azure DDoS Protection<br>• Azure Bastion                                                  |
 
 **Key Notes for Your Study:**
